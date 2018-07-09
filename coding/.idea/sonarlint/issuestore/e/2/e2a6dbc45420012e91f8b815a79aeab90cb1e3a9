@@ -1,0 +1,115 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ‹İøÿÿÿÿ8©ñôóÄ,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞãÑ–8•üòÌÆ,
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(áÔÉÇıÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘˜€ú8£ÿ¯ƒÆ,
+8squid:S1643"Use a StringBuilder instead.(âßû8”»„úÆ,
+\squid:HiddenFieldCheck"7Rename "sk" which hides the field declared at line 488.(óÃ€¬úÿÿÿÿ
+`squid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(…¨º8®ß¨úÅ,
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(˜Ü±üşÿÿÿÿ8Ÿú÷ÔÄ,
+‹squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ÿø·"8ááš„Æ,
+_squid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(Ìö¼8£ÿ¯ƒÆ,
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆíû
+8squid:S1643"Use a StringBuilder instead.(­Ö“Ø8Á¥şšÆ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö´§Íÿÿÿÿÿ8Ü“ÌÆ,
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¥óÖşÿÿÿÿ8œûÍ—Æ,
+nsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "ss".(…¾ö3
+Isquid:S1481"(Remove this unused "str" local variable.(Ó‹‡…øÿÿÿÿ8”»„úÆ,
+esquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(±ƒÛˆ
+esquid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(çÔ‹¶şÿÿÿÿ8şÖ‚ÕÄ,
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¤±ö¿
+Gsquid:S1481"+Remove this unused "parent" local variable.(©©î†8Ÿú÷ÔÄ,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚Ÿz8‚Îƒ—Æ,
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şœã”ÿÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“À†Êüÿÿÿÿ
+ƒsquid:UselessImportCheck"ZRemove this unused import 'jdk.management.resource.internal.inst.FileOutputStreamRMHooks'.(øÕ¹î8ÇñÍ˜Æ,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ª„ã8‚Îƒ—Æ,
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êùÂ»øÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÜãÄ8Á¥şšÆ,
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ş‘í©
+Vsquid:HiddenFieldCheck"7Rename "sk" which hides the field declared at line 488.(’«’
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÍæÉÛ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÀï
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ƒÛˆ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍæÉÛ
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô½¹f8²ñÓƒÆ,
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ş‰‚ûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜™ü8Ÿú÷ÔÄ,
+„squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(¦‚’±
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ª£Ğüÿÿÿÿ8ÏÁ±€Æ,
+esquid:HiddenFieldCheck"9Rename "sum" which hides the field declared at line 1114.(©ŒºÉûÿÿÿÿ8‡Èı÷Æ,
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õúşŒ
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¾Ğÿÿÿÿÿ8ñ†‡øÆ,
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ì¢ÛÂúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜™ü8Ÿú÷ÔÄ,
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êùÂ»øÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤®Òƒ8şÖ‚ÕÄ,
+`squid:S3358"DExtract this nested ternary operation into an independent statement.(Ô° Û8ô®ãÌÆ,
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÊ
+dsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Í»˜L
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ô½¹f8å¦“„Æ,
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( àÒ»
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¸—«8àá£ØÄ,
+gsquid:S00116"QRename this field "sk_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒÛˆ
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²ıÑªşÿÿÿÿ8Ÿú÷ÔÄ,
+„squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ĞÊ
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(À¾Ğÿÿÿÿÿ8ŠËŞùÆ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌ…’ıÿÿÿÿ8µ¯»—Æ,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(±“™Åıÿÿÿÿ8Ÿú÷ÔÄ,
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öÓ’
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8”»„úÆ,
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±“™Åıÿÿÿÿ8Ÿú÷ÔÄ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ñÜãÄ8€µßÌÆ,
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¡ß©
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äœœ²şÿÿÿÿ
+`squid:S3358"DExtract this nested ternary operation into an independent statement.(Ô° Û8ô®ãÌÆ,
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÃ€–øÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ØŞòÿÿÿÿÿ
+^squid:HiddenFieldCheck"9Rename "temp" which hides the field declared at line 490.(ß­óîùÿÿÿÿ
+Zsquid:S2184"ECast one of the operands of this subtraction operation to a "double".(¦ˆ²
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Şœã”ÿÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(§¬´¡úÿÿÿÿ
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ª£Ğüÿÿÿÿ8ÏÁ±€Æ,
+Vsquid:S1854":Remove this useless assignment to local variable "parent".(©©î†8Ÿú÷ÔÄ,
+•squid:S1845"yRename method "Clone" to prevent any misunderstanding/clash with method "clone" defined in superclass "java.lang.Object".(€¸—«8Âê¤ÙÄ,
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(¦‚¤ºÿÿÿÿÿ8®ß¨úÅ,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëò•Æ8å’ËøÅ,
+esquid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(Ş×†èúÿÿÿÿ8şÖ‚ÕÄ,
+`squid:HiddenFieldCheck"9Rename "sum" which hides the field declared at line 1114.(Ôôîå8‡Èı÷Æ,
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÔÉÇıÿÿÿÿ
+csquid:HiddenFieldCheck"7Rename "sk" which hides the field declared at line 488.(ñ€€Ôøÿÿÿÿ8Á¥şšÆ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÌºòúÿÿÿÿ8ğÏàÍÆ,
+esquid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(Ş×†èúÿÿÿÿ8è¨Á„Æ,
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¦‚’±
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¤±ö¿
+Asquid:S2129" Remove this "String" constructor(ñ€€Ôøÿÿÿÿ8Á¥şšÆ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¥Òİÿÿÿÿÿ8şÖ‚ÕÄ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß¿ç¨8äÖÑôÄ,
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êéï
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©¥Òİÿÿÿÿÿ8şÖ‚ÕÄ,
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïİ›Àùÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú€å
+`squid:HiddenFieldCheck"9Rename "sum" which hides the field declared at line 1114.(Ôôîå8‡Èı÷Æ,
+esquid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 637.(·çµşÿÿÿÿ8û™ŸƒÆ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ûåÏÌıÿÿÿÿ
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±“™Åıÿÿÿÿ8Ÿú÷ÔÄ,
+Xsquid:S1854"7Remove this useless assignment to local variable "str".(Ó‹‡…øÿÿÿÿ8”»„úÆ,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦µ¢ô8Á¥şšÆ,
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‰ÁÌ
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿø·"8ááš„Æ,
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8Ÿú÷ÔÄ,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚Ÿz8µ¯»—Æ,
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†şğ’ıÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÇ‰Œ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í»˜L
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ü÷Õ©ÿÿÿÿÿ
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à°÷‘ÿÿÿÿÿ8şÖ‚ÕÄ,
+=squid:S1643"Use a StringBuilder instead.(æÅ·‡ûÿÿÿÿ8”»„úÆ,
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‚’±
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æš—È
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(“À†Êüÿÿÿÿ
+esquid:S2583"DChange this condition so that it does not always evaluate to "false"(îª¤¦üÿÿÿÿ8ÑÒôÄ,

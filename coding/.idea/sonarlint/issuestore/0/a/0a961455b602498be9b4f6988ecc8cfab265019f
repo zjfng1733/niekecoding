@@ -1,0 +1,28 @@
+
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(¾‡Ìùÿÿÿÿ8ãİ­êÆ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8ÆşµóÆ,
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œëß8¨’æôÆ,
+Psquid:S1066"/Merge this if statement with the enclosing one.(·êåÔøÿÿÿÿ8ÒŞâóÆ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8¾¸ıìÆ,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†şğ’ıÿÿÿÿ8Çû‚ŠÄ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¾Ğÿÿÿÿÿ8¾¸ıìÆ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı ıô8ÆşµóÆ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8¾¸ıìÆ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8¾¸ıìÆ,
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óå˜Üøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı½Ø8£øìóÆ,
+Isquid:S1172"(Remove this unused method parameter "a".(Úö±÷úÿÿÿÿ8á’ËøÅ,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8ªÚİôÆ,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8ìŒ„òÆ,
+isquid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.TRANSACTION_MODE'.(á£ñ´ùÿÿÿÿ8ÄĞÕùÅ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ8¾¸ıìÆ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¸åûÿÿÿÿ8ÆşµóÆ,
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(Ò—‰„8¾¸ıìÆ,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8¾¸ıìÆ,
+Hsquid:S1172",Remove this unused method parameter "start".(ÓÑ¢™8¬í¸óÆ,
+Vsquid:S2209"5Change this instance-reference to a static reference.(Ó¨âÔûÿÿÿÿ8€à•öÆ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÇºÊÿÿÿÿÿ8é«àôÆ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ûåÏÌıÿÿÿÿ
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Øœ‚8¼›ãóÆ,

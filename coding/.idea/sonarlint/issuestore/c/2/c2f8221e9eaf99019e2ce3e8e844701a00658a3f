@@ -1,0 +1,10 @@
+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(‰Âİûÿÿÿÿ8äÂ÷ÓÅ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ñ½¡Â8—å°ÑÅ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Àñ­Ô8ŞèıÓÅ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ñ½¡Â8—å°ÑÅ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(âàõÄ8ùò­ÑÅ,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(âàõÄ8ùò­ÑÅ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(æá©Àùÿÿÿÿ8˜ÁıÓÅ,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(†ŞœÜ8‚óäÒÅ,

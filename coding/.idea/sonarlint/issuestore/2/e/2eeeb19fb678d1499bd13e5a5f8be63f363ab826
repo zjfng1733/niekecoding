@@ -1,0 +1,19 @@
+
+Qsquid:S1854"5Remove this useless assignment to local variable "s".(ŸÒØ›8¬ÛÊŸÇ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘8¢Ì…þÆ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯Øìçøÿÿÿÿ8ÚàáýÆ,
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(è–ýu
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éí—÷ûÿÿÿÿ8¤ªÞýÆ,
+Bsquid:S1481"&Remove this unused "s" local variable.(ŸÒØ›8¬ÛÊŸÇ,
+Ysquid:UnusedPrivateMethod"/Remove this unused private "getMethod2" method.(œûóÑ8¤†ËŸÇ,
+Ysquid:UnusedPrivateMethod"/Remove this unused private "getMethod1" method.(Ð¬þÝ8¤†ËŸÇ,
+‰ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ëùÜ8¤†ËŸÇ,
+bsquid:S1192"FDefine a constant instead of duplicating this literal "FIRST" 4 times.(µÿÞ•8¤†ËŸÇ,
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Íóµ¿ûÿÿÿÿ8¤†ËŸÇ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðæÀ£ûÿÿÿÿ8¤†ËŸÇ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Ø“8¤†ËŸÇ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œûóÑ8¤†ËŸÇ,
+Qsquid:S1854"5Remove this useless assignment to local variable "j".(°ëùÜ8¤†ËŸÇ,

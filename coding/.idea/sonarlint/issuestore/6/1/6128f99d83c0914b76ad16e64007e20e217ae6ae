@@ -1,0 +1,10 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†É†ìøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÐ«þÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þ“ûÖ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡ØÊ’ýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™ô×Ç
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ƒ±È
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ƒ±È
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¦Õ¶éúÿÿÿÿ
